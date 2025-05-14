@@ -20,7 +20,7 @@ After logging in, users are redirected to their respective dashboards:
   - Photo
   - Contact Information
   - Interests
-  - Location
+  - Location ( name as well as the coordinates )
 - **Edit Profile**: Admin can update the profile details at any time.
 - **Delete Profile**: Admin can remove profiles from the system.
 
